@@ -3,6 +3,7 @@ package hello.hellospring2;
 import hello.hellospring2.aop.TimeTraceAop;
 import hello.hellospring2.repository.JpaMemberRepository;
 import hello.hellospring2.repository.MemberRepository;
+import hello.hellospring2.repository.MemoRepository;
 import hello.hellospring2.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
